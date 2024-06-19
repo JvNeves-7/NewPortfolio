@@ -33,7 +33,7 @@
         #section img {
             height: auto;
             width: 120px;
-            border-radius: 50%;
+            border-radius: 30%;
             margin-bottom: 20px;
             transition: transform 0.3s;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
